@@ -19,6 +19,12 @@ __Output__
 
     Methods and Results (%):
       Correlation: 0.773925 Chi-square: 6.77688 Intersection: 4.65409 Bhattacharyya: 0.345393
+    
+__Observation__
+
+    As it can be seen from results of the comparison between 10 kuruş and 10 kuruş is similar to 
+    comparison between 10 kuruş and 5 kuruş implying that it is not a good way to check the 
+    only the histogram for similarity.
 
 __Source__
 
